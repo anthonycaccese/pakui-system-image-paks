@@ -1,6 +1,6 @@
 # PakUI: System Image Paks
 
-[![Latest Release](https://badgers.space/badge/Download/Latest%20Release?icon=eva-download&label=&scale=1&corner_radius=s)](https://github.com/anthonycaccese/pakui-system-image-paks/releases/latest)
+[![Latest Release](https://badgers.space/badge/Download/Latest%20Release?icon=eva-download&label=&scale=1.25&corner_radius=s)](https://github.com/anthonycaccese/pakui-system-image-paks/releases/latest)
 
 ## Available Paks
 
