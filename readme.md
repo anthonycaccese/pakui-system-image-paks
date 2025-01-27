@@ -4,14 +4,16 @@
 
 ## Available Paks
 
-- ### Art Book Next
-  - An image set made from the screenshots used in the [Art Book Next](https://github.com/anthonycaccese/art-book-next-es) theme by [Ant](https://github.com/anthonycaccese) for EmulationStation.
 - ### Controllers
   - An image set made from controller graphics created by [Pineapple_Graphics](https://archive.org/details/full-color-pngs) and others.
 - ### Icons
   - An image set made from icon graphics created by [Zoidburg13](https://github.com/Zoidburg13/ES-DE-System-Icon-Set).
+- ### Icons (Monochrome)
+  - An image set made from icon graphics created by [Zoidburg13](https://github.com/Zoidburg13/ES-DE-System-Icon-Set).
 - ### Noir
   - An image set made from illustrations curated by [tenlevels](https://www.reddit.com/user/tenlevels/) from the Epic Noir theme for EmulationStation and other sources.
+- ### Screenshots
+  - An image set made from the screenshots used in the [Art Book Next](https://github.com/anthonycaccese/art-book-next-es) theme by [Ant](https://github.com/anthonycaccese) for EmulationStation.
 
 ## Additional Resources
 
