@@ -27,7 +27,7 @@
     </tr>
     <tr>
       <td>Noir</td>
-      <td>TBA</td>
+      <td><img src="https://github.com/user-attachments/assets/52fbfa83-b867-425c-a3b6-c5a8907b9035" /></td>
       <td>An image set of illustrations curated by <a href="https://www.reddit.com/user/tenlevels/">tenlevels</a> from the Epic Noir theme for EmulationStation and other sources.</td>
     </tr>
     <tr>
